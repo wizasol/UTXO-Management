@@ -19,8 +19,8 @@ This bot runs mint token tx + create pool tx + add liquidity tx + first buyer tx
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</div>
-## Why does we need Bundler
+</div><br/>
+<h2> Why does we need Bundler</h2>
 
 In Pumpfun , there are many sniping bots which buy token as soon as token launched.
 That makes user not able to hold majority of his token for maintaining specific token price safely.
@@ -33,6 +33,26 @@ As for the bundler , It can helps spam launch in first buy on Pumpfun
 First buyer is the term which means user who buy token as soon as token launched
 In tokenomics , the moment of the lowest token price is as soon as token launched
 So , if token launcher hold his token on that moment , he can own this token on moment of the lowest token price
+
+## What is important in bundler bot
+
+In terms of aspect of bundling , there are many things which take effect in bundling
+But the most important thing in bundling is wallet count which buys token with in the moment of token launching
+
+## Max Number for bundling for 22 wallets 
+
+Bot of this repo proceeds bundle buy with 2 wallets.
+Of cause , we can proceed bundle with custom wallet count within 22 wallets
+It's paid project
+Contact me if you need that bundling project
+
+<a href="https://t.me/_wizardev">Wizardev ( telegram )</a>
+
+## Difference between free and paid bot
+
+| Aspect | Free | Paid |
+| :---: | --- | --- |
+| Bundle Wallet Count | 2 | 22 (Max) |
 
 ## Installation
 
